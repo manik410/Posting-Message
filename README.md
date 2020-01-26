@@ -8,4 +8,4 @@
 - Accordion
 
 #### You can see it here...
-[Click Me](https://github.com/manik410/Posting-Message/post.html)
+[Click Me](https://manik410.github.io/Posting-Message/post.html)
