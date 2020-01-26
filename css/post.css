@@ -1,0 +1,55 @@
+
+.nav-item a
+{
+	color:white !important;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+}
+.navbar
+{
+	background:#03033ec7;
+}
+#accordion
+{
+	padding: 10px; 
+}
+hr
+{
+	    border-top: 2px solid #0000005c;
+}
+.heading
+{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 20px;
+	font-weight: bold;
+
+}
+.form-control
+{
+	width: 98%;
+	padding: 10px !important;
+	margin: 10px;
+	border-left: 0px !important;
+	border-radius: 0px !important;
+	border-top:0px !important;
+	border-right: 0px !important;
+	border-radius: 5px;
+}
+.box
+{
+    box-shadow: 0px 2px 7px 0px grey;
+}
+.btn-danger
+{
+	margin:16px;
+	background-color:#80121c !important;
+}
+.detail
+{
+	height: 100px;
+}
+h3
+{
+	background:#03033ec7 !important;
+	color:white !important;
+}
